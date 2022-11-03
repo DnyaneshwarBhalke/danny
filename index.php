@@ -1,3 +1,3 @@
 <?php
-   include("Dany.html");
+   include("dany.html");
 ?>
